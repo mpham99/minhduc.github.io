@@ -7,12 +7,14 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { AboutMeComponent } from './about-me/about-me.component';
+import { AboutMeTerminalComponent } from './about-me/about-me-terminal/about-me-terminal.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
-    AboutMeComponent
+    AboutMeComponent,
+    AboutMeTerminalComponent
   ],
   imports: [
     BrowserModule,
