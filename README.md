@@ -1,5 +1,5 @@
 # Portfolio Website
-My portfolio website, frontend design inspired from [Justin Chi's website](https://www.justinchi.me/)
+My portfolio website, frontend design inspired from [Cosmin Anghel's CodePen](https://codepen.io/angcosmin)
 
 ---
 
