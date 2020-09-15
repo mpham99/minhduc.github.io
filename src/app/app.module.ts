@@ -8,13 +8,15 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { AboutMeComponent } from './about-me/about-me.component';
 import { AboutMeTerminalComponent } from './about-me/about-me-terminal/about-me-terminal.component';
+import { PersonalProjectsComponent } from './personal-projects/personal-projects.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     AboutMeComponent,
-    AboutMeTerminalComponent
+    AboutMeTerminalComponent,
+    PersonalProjectsComponent
   ],
   imports: [
     BrowserModule,
